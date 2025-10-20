@@ -1,4 +1,4 @@
-# This repo has been move to [UWaterloo Formal Methods Github]('https://github.com/WatForm/dashplus')
+# This repo has been moved to [UWaterloo Formal Methods Github](https://github.com/WatForm/dashplus)
 
 # Dash+
 
