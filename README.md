@@ -1,3 +1,5 @@
+# This repo has been move to [UWaterloo Formal Methods Github]('https://github.com/WatForm/dashplus')
+
 # Dash+
 
 ## Building from source:
